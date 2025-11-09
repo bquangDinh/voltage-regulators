@@ -1,0 +1,20 @@
+Comment,Designator,Footprint,JLCPCB Part # (optional)
+22u,"C1,C2",Capacitor_SMD:C_0805_2012Metric,
+10u,"C3,C4,C5",Capacitor_SMD:C_0603_1608Metric,
+100n,"C6,C7",Capacitor_SMD:C_0402_1005Metric,
+10p,C8,Capacitor_SMD:C_0402_1005Metric,
+33u,C9,Capacitor_SMD:C_0805_2012Metric,
+PRW_LED,D1,LED_SMD:LED_0603_1608Metric,
+PWR_LED,"D2,D3",LED_SMD:LED_0603_1608Metric,
+PWR,"J1,J2,J3",Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+10u,L1,Inductor_SMD:L_0805_2012Metric,
+LD39200DPUR,PS2,SamacSys_Parts:SON80P400X400X100-9N-D,https://componentsearchengine.com/Datasheets/1/LD39200DPUR.pdf
+1k,R1,Resistor_SMD:R_0402_1005Metric,
+49.9,R2,Resistor_SMD:R_0402_1005Metric,
+100k,R3,Resistor_SMD:R_0603_1608Metric,
+13k3,R4,Resistor_SMD:R_0402_1005Metric,
+1k5,"R5,R6,R7",Resistor_SMD:R_0402_1005Metric,
+OUT_TP,"TP2,TP4,TP8",Connector_Pin:Pin_D1.0mm_L10.0mm,
+AMS1117-3.3,U1,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf
+TPS54302,U2,Package_TO_SOT_SMD:SOT-23-6,http://www.ti.com/lit/ds/symlink/tps54302.pdf
+GND_TP,TP9,Connector_Pin:Pin_D1.0mm_L10.0mm,
